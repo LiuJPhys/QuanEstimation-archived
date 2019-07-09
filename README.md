@@ -13,7 +13,6 @@ Functions included:
 Control algorithm included:
 1. GRAPE
 
-=====================
 Please see following references for details and cite them if they are helpful. 
 
 GRAPE algorithm for quantum parameter estimation:
