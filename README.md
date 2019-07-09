@@ -17,4 +17,4 @@ Please see following references for details and cite them if they are helpful.
 
 GRAPE algorithm for quantum parameter estimation:
 Jing Liu and Haidong Yuan, Physical Review A 96, 012117 (2017).
-Jing Liu and Haidong Yuan, Physical Review A 96, 042114 (2017).
+Jing Liu and Haidong Yuan, Physical Review A 96, 042114 (2017). 
