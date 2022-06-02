@@ -1,5 +1,8 @@
 # QuanEstimation
 
+## Archived Repository
+** This repository is archived and no longer maintained. Please cheack our new implementation under [QuanEstimation/QuanEstimation](https://github.com/QuanEstimation/QuanEstimation). **
+
 This is a preliminary version. This package can be used to perform some calculations in quantum parameter estimation. 
 Currently we have two versions.  
 
